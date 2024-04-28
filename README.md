@@ -1,4 +1,4 @@
-# Pandas-Challenge
+# School-Report-Pandas-Challenge
 ## Overview and Tasks
 - Using Pandas and Jupyter Notebook, created a report that includes the following data:
   - District Summary
